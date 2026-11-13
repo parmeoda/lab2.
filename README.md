@@ -23,4 +23,8 @@ Monthly Salary: $2000.0
 
 ## Author
 
-parmeoda
+parmida
+## Code Review
+
+- **Reviewed by:** Parmida
+- **Status:** I just rerun my code and made sure everything works due to me not having a partner and being extremely sick. 
